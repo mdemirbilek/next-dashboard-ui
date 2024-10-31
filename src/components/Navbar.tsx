@@ -13,7 +13,7 @@ const Navbar = () => {
       {/* Icons and User */}
       <div className="">
         <div>
-          <Image src="/message.png" alt="" width={14} height={14} />
+          <Image src="/message.png" alt="" width={20} height={20} />
         </div>
 
       </div>
